@@ -51,16 +51,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rendeyl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rendeyl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rendeyl&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rendeyl&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -88,10 +88,8 @@ const rhenDale = {
 ## 🎯 Current Goals
 
 - 🔭 Working on **full-stack web applications**
-- 🌱 Learning **advanced React patterns** and **backend architecture**
-- 👯 Looking to collaborate on **open-source projects**
-- 🤝 Open to **mentorship opportunities** and **tech communities**
-- ⚡ Building projects that solve real-world problems
+- 🌱 Learning **AI & Machine Learning**
+- 👯 Open for **Project Ideas**
 
 ---
 
