@@ -117,8 +117,8 @@ const rhenDale = {
 ---
 
 ### 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Rendeyl&color=blueviolet&style=for-the-badge)
 
-**⭐️ From [Rhen Dale](https://github.com/YOUR_GITHUB_USERNAME) | 🚀 Keep Building, Keep Learning!**
+**⭐️ From [Rhen Dale](https://github.com/Rendeyl) | 🚀 Keep Building, Keep Learning!**
 
 </div>
