@@ -54,11 +54,3 @@
 </div>
 
 ---
-
-### 🌱 About Me
-
-```javascript
-const RhenDale = {
-  focus: "Full-Stack Development",
-  learning: "Machine Learning & Expanding Skills in Back-end",
-};
