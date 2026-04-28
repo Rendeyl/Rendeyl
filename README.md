@@ -1,8 +1,6 @@
 # Hi, I'm RD 👋
 
 🎓 1st Year BSIT Student
-💻 Aspiring Developer
-🔥 Passionate about learning and building
 
 ---
 
@@ -32,23 +30,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
----
 
-## 🌱 Currently Learning
-
-* Full-stack development
-* Building real-world projects
-* Writing clean and efficient code
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=Rendeyl&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rendeyl&theme=react&hide_border=false" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rendeyl&theme=react&hide_border=false&layout=compact" />
-</p>
