@@ -1,6 +1,6 @@
 # Hi, I'm RD 👋
 
-🎓 1st Year BSIT Student
+🎓 2nd Year BSIT Student
 
 ---
 
